@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "persistence",
+            "projectName": "persistence",
+            "workingDirectory": "/Users/bharvill/Source/springboot-class/persistence",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "persistence",
+            "projectName": "persistence",
+            "workingDirectory": "/Users/bharvill/Source/springboot-class/persistence",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}
